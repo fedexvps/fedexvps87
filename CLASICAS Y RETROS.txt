@@ -1,0 +1,865 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E01" tvg-logo="http://xpaneltv.com:8080/images/90eea824a58f04e8950b00b70e393d54.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/167214.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E02" tvg-logo="http://xpaneltv.com:8080/images/6d77b516bba3e236f8dafbf5855b3cfd.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/167215.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E03" tvg-logo="http://xpaneltv.com:8080/images/7c2f5a646e2c371d6fbeb9555467b937.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/167216.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E04" tvg-logo="http://xpaneltv.com:8080/images/cb991310dde7b06bbd8f00395993a514.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/167217.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E05" tvg-logo="http://xpaneltv.com:8080/images/1ce92beef64609b3b3eb118652afc6c6.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/167218.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E06" tvg-logo="http://xpaneltv.com:8080/images/358c56e3217255bec59dd9f67c3f62f6.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/167219.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E07" tvg-logo="http://xpaneltv.com:8080/images/ccb6531ced01e320031ebc6d3b950ab1.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/167220.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E08" tvg-logo="http://xpaneltv.com:8080/images/abfc89efc74428fc7523d244c4c208a1.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/167221.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E09" tvg-logo="http://xpaneltv.com:8080/images/a313e0ccfd7741632c71d259094caa33.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/167222.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E10" tvg-logo="http://xpaneltv.com:8080/images/a0e35a131896be2695b88ab29f959688.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/167223.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E11" tvg-logo="http://xpaneltv.com:8080/images/8d9ff357eadd6795ba85ffc484fc0312.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/167224.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E12" tvg-logo="http://xpaneltv.com:8080/images/c16c75a658bc1fc8c4c86349749549e3.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/167225.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E13" tvg-logo="http://xpaneltv.com:8080/images/02c0cda3a8b03371ca4dc906a9efed57.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/167226.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E14" tvg-logo="http://xpaneltv.com:8080/images/95fdba721e525963152e6f86908bcd08.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/167227.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E15" tvg-logo="http://xpaneltv.com:8080/images/11e7e13dc45b83028b9181b4740a4791.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/167228.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E16" tvg-logo="http://xpaneltv.com:8080/images/f0cfa32c93b179220d7d6e1116042c46.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/167229.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E17" tvg-logo="http://xpaneltv.com:8080/images/7fd5adff01932e7de2ee6da6f7eb5399.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/167230.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E18" tvg-logo="http://xpaneltv.com:8080/images/215841acd1a5558664aa1ad0a4d96ba0.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/167231.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E19" tvg-logo="http://xpaneltv.com:8080/images/61e30575672a88192ab4eb923451a21e.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/167232.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E20" tvg-logo="http://xpaneltv.com:8080/images/4f0d9b97c040accf722f61a28e27275d.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/167233.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E21" tvg-logo="http://xpaneltv.com:8080/images/03e26a65b70d29ec512ed94e81752036.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/167234.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E22" tvg-logo="http://xpaneltv.com:8080/images/713288999f4ba5bc265d8731bd78b778.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/167235.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E23" tvg-logo="http://xpaneltv.com:8080/images/7f11b0806cb16ea85f4b038efb5d6292.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/167236.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E24" tvg-logo="http://xpaneltv.com:8080/images/0c12faf68d4b8c83f202bd02ae350ffe.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/167237.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E25" tvg-logo="http://xpaneltv.com:8080/images/8d255cae8a20ef154f8f57a1b85b9c48.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/167238.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E26" tvg-logo="http://xpaneltv.com:8080/images/0ae2e7c3f2cadffcc4e9d65b8ecd1479.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E26
+http://xpaneltv.com:8080/series/Alirf/78587421/167239.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E27" tvg-logo="http://xpaneltv.com:8080/images/a0cdb88d187bb6bf8d0da59f2f1aef6a.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E27
+http://xpaneltv.com:8080/series/Alirf/78587421/167240.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E28" tvg-logo="http://xpaneltv.com:8080/images/3205469448401202637e0992d6de9223.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E28
+http://xpaneltv.com:8080/series/Alirf/78587421/167241.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E29" tvg-logo="http://xpaneltv.com:8080/images/426988efa833f62ffa26c38e87f81920.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E29
+http://xpaneltv.com:8080/series/Alirf/78587421/167242.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E30" tvg-logo="http://xpaneltv.com:8080/images/33965c0e29a4003876a2bcd1b2d0187f.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E30
+http://xpaneltv.com:8080/series/Alirf/78587421/167243.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E31" tvg-logo="http://xpaneltv.com:8080/images/97817370d82f3564119ffcb73affcdaf.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E31
+http://xpaneltv.com:8080/series/Alirf/78587421/167244.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E32" tvg-logo="http://xpaneltv.com:8080/images/0c8a2717b9a356df56510dc57d3fbe19.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E32
+http://xpaneltv.com:8080/series/Alirf/78587421/167245.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E33" tvg-logo="http://xpaneltv.com:8080/images/d4f7c0ebfa4ec1bd514b8757b1f99089.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E33
+http://xpaneltv.com:8080/series/Alirf/78587421/167246.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E34" tvg-logo="http://xpaneltv.com:8080/images/c19e1e8d1e69c5001b6ddf9dafce989d.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E34
+http://xpaneltv.com:8080/series/Alirf/78587421/167247.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E35" tvg-logo="http://xpaneltv.com:8080/images/91f7707723b8578ae56dadf35db0b0a2.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E35
+http://xpaneltv.com:8080/series/Alirf/78587421/167248.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E36" tvg-logo="http://xpaneltv.com:8080/images/fb1a4f8e5e213e327d3cbcc59055c06e.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E36
+http://xpaneltv.com:8080/series/Alirf/78587421/167249.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E37" tvg-logo="http://xpaneltv.com:8080/images/9b33cd444b3d162044ff469ce800810a.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E37
+http://xpaneltv.com:8080/series/Alirf/78587421/167250.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E38" tvg-logo="http://xpaneltv.com:8080/images/6ea852e34f133ce176793b612ff16fbd.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E38
+http://xpaneltv.com:8080/series/Alirf/78587421/167251.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E39" tvg-logo="http://xpaneltv.com:8080/images/73ac8ee131643a37635a992c526842ff.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E39
+http://xpaneltv.com:8080/series/Alirf/78587421/167252.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E40" tvg-logo="http://xpaneltv.com:8080/images/5de876a3651e25bf6bf22049f2f86f45.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E40
+http://xpaneltv.com:8080/series/Alirf/78587421/167253.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E41" tvg-logo="http://xpaneltv.com:8080/images/8b7d3bb434762aaa6590b0b6d54fad69.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E41
+http://xpaneltv.com:8080/series/Alirf/78587421/167254.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E42" tvg-logo="http://xpaneltv.com:8080/images/8ec5cfbd9744e45b0acf278b33b50e13.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E42
+http://xpaneltv.com:8080/series/Alirf/78587421/167255.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E43" tvg-logo="http://xpaneltv.com:8080/images/35e22636876cbd607b633078fe1c4d71.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E43
+http://xpaneltv.com:8080/series/Alirf/78587421/167256.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E44" tvg-logo="http://xpaneltv.com:8080/images/0459462aea5b1e645c09a5e78542f023.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E44
+http://xpaneltv.com:8080/series/Alirf/78587421/167257.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E45" tvg-logo="http://xpaneltv.com:8080/images/ce0ba665401fe8ea61ab834e8a63f545.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E45
+http://xpaneltv.com:8080/series/Alirf/78587421/167258.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E46" tvg-logo="http://xpaneltv.com:8080/images/e72af05a0a646ca2b05864c15d0c5ff6.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E46
+http://xpaneltv.com:8080/series/Alirf/78587421/167259.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E47" tvg-logo="http://xpaneltv.com:8080/images/1ad7538e9da23858443bd04fb9547467.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E47
+http://xpaneltv.com:8080/series/Alirf/78587421/167260.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E48" tvg-logo="http://xpaneltv.com:8080/images/64ea621ffbee094b9993a7da6a595daa.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E48
+http://xpaneltv.com:8080/series/Alirf/78587421/167261.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E49" tvg-logo="http://xpaneltv.com:8080/images/6a311cef81e836ef6896dbae48e4f803.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E49
+http://xpaneltv.com:8080/series/Alirf/78587421/167262.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E50" tvg-logo="http://xpaneltv.com:8080/images/382d68ce220b4bb1cb472d33034e4cbb.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E50
+http://xpaneltv.com:8080/series/Alirf/78587421/167263.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E51" tvg-logo="http://xpaneltv.com:8080/images/cb085ff4ab7039abafce482667467873.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E51
+http://xpaneltv.com:8080/series/Alirf/78587421/167264.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E52" tvg-logo="http://xpaneltv.com:8080/images/08f62331fd4885edcc6eb3b36b677452.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E52
+http://xpaneltv.com:8080/series/Alirf/78587421/167265.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E53" tvg-logo="http://xpaneltv.com:8080/images/a0e339e539cb0b8d613a9fb4856fe3c8.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E53
+http://xpaneltv.com:8080/series/Alirf/78587421/167266.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E54" tvg-logo="http://xpaneltv.com:8080/images/b1d39cc78c99e3f6bddd224b14a3f797.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E54
+http://xpaneltv.com:8080/series/Alirf/78587421/167267.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E55" tvg-logo="http://xpaneltv.com:8080/images/c7ccd146ce7b1adf64fd652cf19c21a4.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E55
+http://xpaneltv.com:8080/series/Alirf/78587421/167268.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E56" tvg-logo="http://xpaneltv.com:8080/images/73fec644b090ef9f90af28b8074b96b4.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E56
+http://xpaneltv.com:8080/series/Alirf/78587421/167269.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E57" tvg-logo="http://xpaneltv.com:8080/images/7b7f251236eaa02ef9fa02f0438d6966.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E57
+http://xpaneltv.com:8080/series/Alirf/78587421/167270.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E58" tvg-logo="http://xpaneltv.com:8080/images/bef4a41f623ad0654f102a7a6495d6d6.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E58
+http://xpaneltv.com:8080/series/Alirf/78587421/167271.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E59" tvg-logo="http://xpaneltv.com:8080/images/ff509a56721f62b87ce5f3f665f616cf.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E59
+http://xpaneltv.com:8080/series/Alirf/78587421/167272.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S01 E60" tvg-logo="http://xpaneltv.com:8080/images/293a0c15df0de5d77f0931a84ccb205f.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S01 E60
+http://xpaneltv.com:8080/series/Alirf/78587421/167273.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E01" tvg-logo="http://xpaneltv.com:8080/images/335bedca7f75258faa1e3dfd2ebaea75.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/167274.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E02" tvg-logo="http://xpaneltv.com:8080/images/d024e220828957a22628c111b1d962d7.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/167275.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E03" tvg-logo="http://xpaneltv.com:8080/images/2d044e94643e4e0ea9d6c64c7eadcc94.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/167276.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E04" tvg-logo="http://xpaneltv.com:8080/images/80ca6d65d4e10abd9ac2590f93b46dc6.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/167277.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E05" tvg-logo="http://xpaneltv.com:8080/images/52fb66cd84cdcde3c639e049c3908359.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/167278.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E06" tvg-logo="http://xpaneltv.com:8080/images/5ce0a3c2933318f0b06a1873389535ad.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/167279.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E07" tvg-logo="http://xpaneltv.com:8080/images/7e440ff89ade2e7aa820340654980c87.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/167280.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E08" tvg-logo="http://xpaneltv.com:8080/images/1f686621ab6b6be545da0d2fb51da33c.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/167281.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E09" tvg-logo="http://xpaneltv.com:8080/images/63476df13f1b6c2626e31e4fec5336b7.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/167282.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S02 E10" tvg-logo="http://xpaneltv.com:8080/images/e5b89bf300be3627880789c5815e6313.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S02 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/167283.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E01" tvg-logo="http://xpaneltv.com:8080/images/b11612eece6b73097177b6c8b36c6e3b.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/167284.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E02" tvg-logo="http://xpaneltv.com:8080/images/32e4d217137129688bbb9c5a52718777.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/167285.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E03" tvg-logo="http://xpaneltv.com:8080/images/1d197e9939d0cf304aaedf4932a328f1.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/167286.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E04" tvg-logo="http://xpaneltv.com:8080/images/0f4f13526bbab0810cc553c36588a234.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/167287.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E05" tvg-logo="http://xpaneltv.com:8080/images/c3f5d1cf2fc2f5d56b57c101682a6d83.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/167288.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E06" tvg-logo="http://xpaneltv.com:8080/images/836b8b5b5f90e0f61fa1cc3c5d2a1371.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/167289.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E07" tvg-logo="http://xpaneltv.com:8080/images/c01e752e38552b7b291cf3bd0c1999e4.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/167290.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E08" tvg-logo="http://xpaneltv.com:8080/images/14c78ed051eadcc64baa166615a3852b.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/167291.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E09" tvg-logo="http://xpaneltv.com:8080/images/7425fc2cbcd8436c6041b92a0eb28bf1.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/167292.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S03 E10" tvg-logo="http://xpaneltv.com:8080/images/306418553ce1b556027fb522e90a74d7.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S03 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/167293.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S04 E01" tvg-logo="http://xpaneltv.com:8080/images/4e3aaba8a679d039300304805a645d71.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S04 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/167294.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S04 E02" tvg-logo="http://xpaneltv.com:8080/images/af2fde677f8bf575efc1c1f7111e1f81.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S04 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/167295.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S04 E03" tvg-logo="http://xpaneltv.com:8080/images/775656565b460ec23f8ad7864505ffed.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S04 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/167296.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S04 E04" tvg-logo="http://xpaneltv.com:8080/images/7c590c798ce14e71cd840f3ba3a043f6.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S04 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/167297.mkv
+#EXTINF: -1 tvg-name="Batman: La Serie Animada (1080) S04 E05" tvg-logo="http://xpaneltv.com:8080/images/fb79540e0d4e8b44f1f421a16435f0b0.jpg" group-title="CLÁSICAS & RETRO", Batman: La Serie Animada (1080) S04 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/167298.mkv
+#EXTINF: -1 tvg-name="Heidi S01 E01" tvg-logo="http://xpaneltv.com:8080/images/13b62cf388f01059076d2641014f9ee7.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/187340.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E02" tvg-logo="http://xpaneltv.com:8080/images/490ce18cc0dc71fd2271cbe0a90f417b.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/187341.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E03" tvg-logo="http://xpaneltv.com:8080/images/7c9caf08fd9ecdda649484031a9547c9.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/187342.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E04" tvg-logo="http://xpaneltv.com:8080/images/585b91b2a1e1fe3d4833fbd0ce74b47a.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/187343.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E05" tvg-logo="http://xpaneltv.com:8080/images/7a66ca83a90df4a6e0c398361839f35a.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/187344.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E06" tvg-logo="http://xpaneltv.com:8080/images/ded4c1c343226f05255e73ed851d08f2.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/187345.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E07" tvg-logo="http://xpaneltv.com:8080/images/c0c3c6012cd4161b20227f367be58496.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/187346.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E08" tvg-logo="http://xpaneltv.com:8080/images/d4c7ecac824bde16b991ccb1673eb1e7.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/187347.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E09" tvg-logo="http://xpaneltv.com:8080/images/f562a1fe46835effb862c78f0dc45000.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/187348.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E10" tvg-logo="http://xpaneltv.com:8080/images/f562a1fe46835effb862c78f0dc45000.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/187349.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E11" tvg-logo="http://xpaneltv.com:8080/images/71e7860a81757a1c39f38c4bdcb9ba87.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/187350.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E12" tvg-logo="http://xpaneltv.com:8080/images/0aa6bb98e7ce8f3604e93769a9dc7d7c.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/187351.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E13" tvg-logo="http://xpaneltv.com:8080/images/c1b79e22f48ff18a01945fc65b7ff44d.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/187352.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E14" tvg-logo="http://xpaneltv.com:8080/images/8ac2fa95aa3a7b4a6f7c0521983f2e30.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/187353.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E15" tvg-logo="http://xpaneltv.com:8080/images/247d6f90c63a3ab83835de5febde26f5.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/187354.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E16" tvg-logo="http://xpaneltv.com:8080/images/322b5eefe718666b819bbba4b02b052e.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/187355.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E17" tvg-logo="http://xpaneltv.com:8080/images/94ffd38cace283aa225191854ac0f264.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/187356.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E18" tvg-logo="http://xpaneltv.com:8080/images/19015d0b7d2106dac8d52ab7536d7065.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/187357.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E19" tvg-logo="http://xpaneltv.com:8080/images/e6c3645548927b704585133505092f39.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/187358.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E20" tvg-logo="http://xpaneltv.com:8080/images/3029aa1a48e7b1de99035585d2c746ec.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/187359.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E21" tvg-logo="http://xpaneltv.com:8080/images/4d74d3baa0e74b4a2f2faaadca21a553.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/187360.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E22" tvg-logo="http://xpaneltv.com:8080/images/b1fcbba2c8adc90189e3237feeb4109e.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/187361.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E23" tvg-logo="http://xpaneltv.com:8080/images/df86f930de19189e44656541fd04211b.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/187362.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E24" tvg-logo="http://xpaneltv.com:8080/images/e65381f85730824648856acf975af462.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/187363.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E25" tvg-logo="http://xpaneltv.com:8080/images/d57a3ef86f4bebff4b89addeb9f880d3.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/187364.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E26" tvg-logo="http://xpaneltv.com:8080/images/4c60742e39cd0d7dfd55f95759d54647.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E26
+http://xpaneltv.com:8080/series/Alirf/78587421/187365.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E27" tvg-logo="http://xpaneltv.com:8080/images/6918fb93ab983ef23105e40759101358.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E27
+http://xpaneltv.com:8080/series/Alirf/78587421/187366.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E28" tvg-logo="http://xpaneltv.com:8080/images/b2a8a671a36135abc21fe437e6118f21.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E28
+http://xpaneltv.com:8080/series/Alirf/78587421/187367.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E29" tvg-logo="http://xpaneltv.com:8080/images/9108e4d83a4429a5f820d011ecc88154.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E29
+http://xpaneltv.com:8080/series/Alirf/78587421/187368.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E30" tvg-logo="http://xpaneltv.com:8080/images/9f268fbbdebb88c3cf0c549312f54bc0.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E30
+http://xpaneltv.com:8080/series/Alirf/78587421/187369.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E31" tvg-logo="http://xpaneltv.com:8080/images/2e2a120bd900d19be3f3423139e49635.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E31
+http://xpaneltv.com:8080/series/Alirf/78587421/187370.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E32" tvg-logo="http://xpaneltv.com:8080/images/0d0dce1ab0450c3b804bed3b33d36dc6.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E32
+http://xpaneltv.com:8080/series/Alirf/78587421/187371.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E33" tvg-logo="http://xpaneltv.com:8080/images/4bde5c03360fc048b189c0ee4715eb27.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E33
+http://xpaneltv.com:8080/series/Alirf/78587421/187372.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E34" tvg-logo="http://xpaneltv.com:8080/images/c9389c3a2bcbeaa96b108988902c8733.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E34
+http://xpaneltv.com:8080/series/Alirf/78587421/187373.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E35" tvg-logo="http://xpaneltv.com:8080/images/e0a761fd4d673ae95e258830d739444d.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E35
+http://xpaneltv.com:8080/series/Alirf/78587421/187374.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E36" tvg-logo="http://xpaneltv.com:8080/images/6fee565d98878e5d8ab8e5f1111f1465.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E36
+http://xpaneltv.com:8080/series/Alirf/78587421/187375.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E37" tvg-logo="http://xpaneltv.com:8080/images/dd8728e966929d17d5d3ab48bbfc0d0d.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E37
+http://xpaneltv.com:8080/series/Alirf/78587421/187376.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E38" tvg-logo="http://xpaneltv.com:8080/images/85498febb760ed534dd91ff1841326bd.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E38
+http://xpaneltv.com:8080/series/Alirf/78587421/187377.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E39" tvg-logo="http://xpaneltv.com:8080/images/25915b43adc83e8d8a159c86158df612.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E39
+http://xpaneltv.com:8080/series/Alirf/78587421/187378.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E40" tvg-logo="http://xpaneltv.com:8080/images/5b5fc18222568f74472ef327434aba8e.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E40
+http://xpaneltv.com:8080/series/Alirf/78587421/187379.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E41" tvg-logo="http://xpaneltv.com:8080/images/78cdb4d4ad26a5dfc1d1f4cbcc74f727.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E41
+http://xpaneltv.com:8080/series/Alirf/78587421/187380.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E42" tvg-logo="http://xpaneltv.com:8080/images/482f80ceab1e7c1f80328505e4e30182.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E42
+http://xpaneltv.com:8080/series/Alirf/78587421/187381.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E43" tvg-logo="http://xpaneltv.com:8080/images/8de9b0919b16a5e17e034d999760e2de.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E43
+http://xpaneltv.com:8080/series/Alirf/78587421/187382.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E44" tvg-logo="http://xpaneltv.com:8080/images/5fa3bbe78fece3f8d1a9218cf96bb981.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E44
+http://xpaneltv.com:8080/series/Alirf/78587421/187383.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E45" tvg-logo="http://xpaneltv.com:8080/images/aac32b1018ab72386f43a0451e4fe7f6.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E45
+http://xpaneltv.com:8080/series/Alirf/78587421/187384.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E46" tvg-logo="http://xpaneltv.com:8080/images/a4a6e3691d99d1b0facb732ba16a252b.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E46
+http://xpaneltv.com:8080/series/Alirf/78587421/187385.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E47" tvg-logo="http://xpaneltv.com:8080/images/40b2f613df29f3b13c185c17c659204f.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E47
+http://xpaneltv.com:8080/series/Alirf/78587421/187386.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E48" tvg-logo="http://xpaneltv.com:8080/images/5364026b65d9daba26cfe9f97c265816.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E48
+http://xpaneltv.com:8080/series/Alirf/78587421/187387.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E49" tvg-logo="http://xpaneltv.com:8080/images/401ed1a915e76f9639dfc9bf9b3b4fdd.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E49
+http://xpaneltv.com:8080/series/Alirf/78587421/187388.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E50" tvg-logo="http://xpaneltv.com:8080/images/22d7d0665306c126fd20a5ae7e4bf3a7.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E50
+http://xpaneltv.com:8080/series/Alirf/78587421/187389.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E51" tvg-logo="http://xpaneltv.com:8080/images/131af13d95d6a29de9b64f25f367cc8c.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E51
+http://xpaneltv.com:8080/series/Alirf/78587421/187390.mp4
+#EXTINF: -1 tvg-name="Heidi S01 E52" tvg-logo="http://xpaneltv.com:8080/images/ff560080f69b3c3b0f7832887501f07d.jpg" group-title="CLÁSICAS & RETRO", Heidi S01 E52
+http://xpaneltv.com:8080/series/Alirf/78587421/187391.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E01" tvg-logo="http://xpaneltv.com:8080/images/4eda02b26399e0726f41d3e97b020188.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/194114.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E02" tvg-logo="http://xpaneltv.com:8080/images/c2f30fac83ee799c7e75b35031a0c413.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/194115.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E03" tvg-logo="http://xpaneltv.com:8080/images/8564d211ef26e3ef77193066beac75d6.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/194116.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E04" tvg-logo="http://xpaneltv.com:8080/images/95cdb057af953283c34271ef25948cbc.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/194117.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E05" tvg-logo="http://xpaneltv.com:8080/images/14f673e2062b2d66ff56d5dc28a680a9.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/194118.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E06" tvg-logo="http://xpaneltv.com:8080/images/45a123f937fcd88cd67432e1370905fb.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/194119.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E07" tvg-logo="http://xpaneltv.com:8080/images/9213b6454f260a0f432c0c45b79d7504.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/194120.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E08" tvg-logo="http://xpaneltv.com:8080/images/c0b209ed6603e31ad18b940017ed8b13.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/194121.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E09" tvg-logo="http://xpaneltv.com:8080/images/866432a7648e7299bc81348017d38229.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/194122.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E10" tvg-logo="http://xpaneltv.com:8080/images/db9282a3ccda71dad1e26f4b7e7e306c.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/194123.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E11" tvg-logo="http://xpaneltv.com:8080/images/44dbd913104da96b1e8cee23d6316068.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/194124.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E12" tvg-logo="http://xpaneltv.com:8080/images/86fc7ab171ddceca6c88961662761d26.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/194125.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E13" tvg-logo="http://xpaneltv.com:8080/images/1f8e7566278e1351bcf0f925f8a5c890.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/194126.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E14" tvg-logo="http://xpaneltv.com:8080/images/fbbe938c78ae9ae30cd9e7f685f65e0a.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/194127.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E15" tvg-logo="http://xpaneltv.com:8080/images/cc106662487b159bf99c7ea3036c5464.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/194128.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E16" tvg-logo="http://xpaneltv.com:8080/images/a6f948801bab16a37ade6db89bbba0a6.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/194129.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E17" tvg-logo="http://xpaneltv.com:8080/images/bd321999c33c8bd5f322ef5af44cfffb.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/194130.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E18" tvg-logo="http://xpaneltv.com:8080/images/18f24052a1f234f01656a2fe18472a16.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/194131.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E19" tvg-logo="http://xpaneltv.com:8080/images/dcd577e709845904485dc347e686e5c1.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/194132.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E20" tvg-logo="http://xpaneltv.com:8080/images/4643ac2ea452115012842bc375e4df17.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/194133.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E21" tvg-logo="http://xpaneltv.com:8080/images/c75cfd44676b79caea54856e35e2a258.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/194134.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E22" tvg-logo="http://xpaneltv.com:8080/images/666df5a202c4eebb4895ef0b7abc1579.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/194135.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E23" tvg-logo="http://xpaneltv.com:8080/images/28110065bd7fbf27e2e62c5f3cd8c60c.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/194136.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E24" tvg-logo="http://xpaneltv.com:8080/images/3600166192d2cf059436fc0501136e21.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/194137.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E25" tvg-logo="http://xpaneltv.com:8080/images/ea7a2459419ff605b4628d67b60f915e.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/194138.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E26" tvg-logo="http://xpaneltv.com:8080/images/b88a98aed1004d17707fcda3811562d5.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E26
+http://xpaneltv.com:8080/series/Alirf/78587421/194139.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E27" tvg-logo="http://xpaneltv.com:8080/images/7396596f0c053a81f15217b41f874043.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E27
+http://xpaneltv.com:8080/series/Alirf/78587421/194140.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E28" tvg-logo="http://xpaneltv.com:8080/images/f025ee412c72100e2f0bae7144c7db43.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E28
+http://xpaneltv.com:8080/series/Alirf/78587421/194141.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E29" tvg-logo="http://xpaneltv.com:8080/images/d627284a6da6a93df5dc55fb50f04c70.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E29
+http://xpaneltv.com:8080/series/Alirf/78587421/194142.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E30" tvg-logo="http://xpaneltv.com:8080/images/aaea9550c118fb37c1300036a38c4370.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E30
+http://xpaneltv.com:8080/series/Alirf/78587421/194143.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E31" tvg-logo="http://xpaneltv.com:8080/images/b17226dc16e6905d99237854636c4b1d.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E31
+http://xpaneltv.com:8080/series/Alirf/78587421/194144.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E32" tvg-logo="http://xpaneltv.com:8080/images/c1ca99627dba7dc61f27b2b0abf82858.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E32
+http://xpaneltv.com:8080/series/Alirf/78587421/194145.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E33" tvg-logo="http://xpaneltv.com:8080/images/fb7347f80dca1fa42e2d5237fbb6d79e.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E33
+http://xpaneltv.com:8080/series/Alirf/78587421/194146.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S01 E34" tvg-logo="http://xpaneltv.com:8080/images/66b6e41b5205cf96541fbfd3eb97c8ed.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S01 E34
+http://xpaneltv.com:8080/series/Alirf/78587421/194147.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E01" tvg-logo="http://xpaneltv.com:8080/images/fed9bb91cc051a6a4605f4ad73ffbaa1.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/194148.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E02" tvg-logo="http://xpaneltv.com:8080/images/2f11e307b87ea1b102f7320cfbce215b.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/194149.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E03" tvg-logo="http://xpaneltv.com:8080/images/dc9b66d2f3ea3908c93ff44a48ace9fa.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/194150.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E04" tvg-logo="http://xpaneltv.com:8080/images/014c73e2d92c5067b7ec15c3d356ff08.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/194151.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E05" tvg-logo="http://xpaneltv.com:8080/images/f76c940c6ac1aec9e227a399fad725b9.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/194152.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E06" tvg-logo="http://xpaneltv.com:8080/images/c8304e4603653a87787f6992ec1cdfac.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/194153.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E07" tvg-logo="http://xpaneltv.com:8080/images/0fe2162e15f9ba5112420c3039d4dacf.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/194154.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E08" tvg-logo="http://xpaneltv.com:8080/images/56c846eec0095c007dcea1a47a9361d0.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/194155.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E09" tvg-logo="http://xpaneltv.com:8080/images/f532551bf1b2897c9895179c6d26d70c.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/194156.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E10" tvg-logo="http://xpaneltv.com:8080/images/b49b5ea8d2ff810fd83a9ac3726e4f51.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/194157.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E11" tvg-logo="http://xpaneltv.com:8080/images/a66954274a87a663a41af1a393f5bfac.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/194158.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E12" tvg-logo="http://xpaneltv.com:8080/images/9c943db99a186aa8255e037761b63341.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/194159.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E13" tvg-logo="http://xpaneltv.com:8080/images/b41bc9ff68e6c9eac3a0823ab2a635d3.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/194160.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E14" tvg-logo="http://xpaneltv.com:8080/images/d6b2501882f53d63da1aae44a5a37a39.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/194161.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E15" tvg-logo="http://xpaneltv.com:8080/images/d9515b49c2c0436a315d7d47fe8658c8.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/194162.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E16" tvg-logo="http://xpaneltv.com:8080/images/0ab4727d0753a6491204f33f90a48c25.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/194163.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E17" tvg-logo="http://xpaneltv.com:8080/images/37696d717c61269512c56766b71c343e.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/194164.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E18" tvg-logo="http://xpaneltv.com:8080/images/55ec12189073b2a1b04647aecec42106.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/194165.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E19" tvg-logo="http://xpaneltv.com:8080/images/6f1095bb8428b96e3496fac08965ea4f.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/194166.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E20" tvg-logo="http://xpaneltv.com:8080/images/b69635cf329e964b00114e8248d7104b.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/194167.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E21" tvg-logo="http://xpaneltv.com:8080/images/dbbbbfac8e9a41cc03e858c972fd17ef.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/194168.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E22" tvg-logo="http://xpaneltv.com:8080/images/e68e8fc0173ee1929cfeddf1de164ee5.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/194169.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E23" tvg-logo="http://xpaneltv.com:8080/images/170e8167320e7088d3e38abef23f2b17.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/194170.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E24" tvg-logo="http://xpaneltv.com:8080/images/087c999141ba7090678a3313f2564d7b.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/194171.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E25" tvg-logo="http://xpaneltv.com:8080/images/779e60fdbeec44621d05e9df6b8c6cc0.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/194172.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E26" tvg-logo="http://xpaneltv.com:8080/images/cc653f2289263acfb747e4cd13fc28d3.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E26
+http://xpaneltv.com:8080/series/Alirf/78587421/194173.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E27" tvg-logo="http://xpaneltv.com:8080/images/cdd7cec111ee2c008d60a4457a18668f.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E27
+http://xpaneltv.com:8080/series/Alirf/78587421/194174.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E28" tvg-logo="http://xpaneltv.com:8080/images/2026d78281fd9b03c46538577dc78bbd.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E28
+http://xpaneltv.com:8080/series/Alirf/78587421/194175.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E29" tvg-logo="http://xpaneltv.com:8080/images/98c1b693530a4b88c3e049802ee4644b.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E29
+http://xpaneltv.com:8080/series/Alirf/78587421/194176.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E30" tvg-logo="http://xpaneltv.com:8080/images/fafe0d89ccc2840d285a4038400e2b3c.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E30
+http://xpaneltv.com:8080/series/Alirf/78587421/194177.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E31" tvg-logo="http://xpaneltv.com:8080/images/1f83e968c4d025c6a6fe7787b79b96fe.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E31
+http://xpaneltv.com:8080/series/Alirf/78587421/194178.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E32" tvg-logo="http://xpaneltv.com:8080/images/e6f82d8a54be9c7aa84c5fd4d74f3b13.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E32
+http://xpaneltv.com:8080/series/Alirf/78587421/194179.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E33" tvg-logo="http://xpaneltv.com:8080/images/dad57311124af40117421ac52b09a96e.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E33
+http://xpaneltv.com:8080/series/Alirf/78587421/194180.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E34" tvg-logo="http://xpaneltv.com:8080/images/315bb8cf1a3ad82db2aa2acce1742151.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E34
+http://xpaneltv.com:8080/series/Alirf/78587421/194181.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E35" tvg-logo="http://xpaneltv.com:8080/images/ad0a4ca3e27806d3abcd9534f585f37a.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E35
+http://xpaneltv.com:8080/series/Alirf/78587421/194182.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E36" tvg-logo="http://xpaneltv.com:8080/images/7134b463591178ae963c5b37ff1d4554.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E36
+http://xpaneltv.com:8080/series/Alirf/78587421/194183.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E37" tvg-logo="http://xpaneltv.com:8080/images/d34c7bda0bdae0a1b4f28bde95af50bd.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E37
+http://xpaneltv.com:8080/series/Alirf/78587421/194184.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E38" tvg-logo="http://xpaneltv.com:8080/images/ba10831b56b2bab1c6b5ebd1eb81360a.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E38
+http://xpaneltv.com:8080/series/Alirf/78587421/194185.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E39" tvg-logo="http://xpaneltv.com:8080/images/af3da33e6ce9f2407cc20747355e44e9.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E39
+http://xpaneltv.com:8080/series/Alirf/78587421/194186.mp4
+#EXTINF: -1 tvg-name="Batman (1966) S02 E40" tvg-logo="http://xpaneltv.com:8080/images/0021dac3dc1b8a724e880653dacf720b.jpg" group-title="CLÁSICAS & RETRO", Batman (1966) S02 E40
+http://xpaneltv.com:8080/series/Alirf/78587421/194187.mp4
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E01" tvg-logo="http://xpaneltv.com:8080/images/8c4c482070096d6fbe42fa71ccd31ae5.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/212558.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E02" tvg-logo="http://xpaneltv.com:8080/images/aa9205b47ab32e519e086a69edf4a901.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/212559.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E03" tvg-logo="http://xpaneltv.com:8080/images/29d81f1d0aa1a3b0818a365a899bf512.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/212560.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E04" tvg-logo="http://xpaneltv.com:8080/images/4a6650eeb815386e9bd79c18613d92c2.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/212561.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E05" tvg-logo="http://xpaneltv.com:8080/images/2e00127c6b4b6558bd0e606acd2cf868.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/212562.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E06" tvg-logo="http://xpaneltv.com:8080/images/dbfbf30d7ffd69dca290e327432f8e4d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/212563.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E07" tvg-logo="http://xpaneltv.com:8080/images/3d27a3bfc61cab57a6f2f781ee2f65d8.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/212564.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E08" tvg-logo="http://xpaneltv.com:8080/images/b4bb2b546cab604934c947133421ce54.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/212565.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E09" tvg-logo="http://xpaneltv.com:8080/images/863bee3bd67b1123503afb7d72c30b2b.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/212566.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E10" tvg-logo="http://xpaneltv.com:8080/images/624ed4eb88ab7bdcbe4fbf8d2be29042.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/212567.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E11" tvg-logo="http://xpaneltv.com:8080/images/0be1cf6fede1b560f2f30d57bf287983.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/212568.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E12" tvg-logo="http://xpaneltv.com:8080/images/d2183015b980521a41df3588a8edb9ac.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/212569.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E13" tvg-logo="http://xpaneltv.com:8080/images/d2183015b980521a41df3588a8edb9ac.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/212570.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E14" tvg-logo="http://xpaneltv.com:8080/images/7246bbb16c82f0f783263d7e6ca92e59.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/212571.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E15" tvg-logo="http://xpaneltv.com:8080/images/cf7ec3f457af4aa0f33e448113de9910.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/212572.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E16" tvg-logo="http://xpaneltv.com:8080/images/4aeabe20f05a39ff5cd246986f1f829a.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/212573.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E17" tvg-logo="http://xpaneltv.com:8080/images/c7e2c921b3e015ad6afea5ed6016c66c.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/212574.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E18" tvg-logo="http://xpaneltv.com:8080/images/73e1a3a68b06dbe32fe9b7ea89b5a65e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/212575.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E19" tvg-logo="http://xpaneltv.com:8080/images/7f888be2dfd91d770e1eb002d01b86b0.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/212576.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E20" tvg-logo="http://xpaneltv.com:8080/images/97f509c817f3bdc2303077a117eb9b9f.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/212577.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E21" tvg-logo="http://xpaneltv.com:8080/images/b4bb2b546cab604934c947133421ce54.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/212578.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E22" tvg-logo="http://xpaneltv.com:8080/images/3d27a3bfc61cab57a6f2f781ee2f65d8.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/212579.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E23" tvg-logo="http://xpaneltv.com:8080/images/e6d615d8d775fbbb393b8b8d60ac61df.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/212580.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E24" tvg-logo="http://xpaneltv.com:8080/images/1244adc9ad3efe0fdf53a5637965b524.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/212581.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S01 E25" tvg-logo="http://xpaneltv.com:8080/images/b392d80c8ff728af48fd0b9a24d3ad34.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S01 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/212582.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E01" tvg-logo="http://xpaneltv.com:8080/images/0f37f4c7eeb03e78b20f34e4aed7bb3e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/212583.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E02" tvg-logo="http://xpaneltv.com:8080/images/3bc571a88ed62ea9c6eb84edfcd378d4.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/212584.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E03" tvg-logo="http://xpaneltv.com:8080/images/6a3b3c4348e01a1852595b79672ee86b.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/212585.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E04" tvg-logo="http://xpaneltv.com:8080/images/008a900d43336ffd69ddfc35a239bd71.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/212586.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E05" tvg-logo="http://xpaneltv.com:8080/images/68b8e378f52fe9aaede647c76d0b6d04.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/212587.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E06" tvg-logo="http://xpaneltv.com:8080/images/b1d400611a46a6885a638b8bfd431066.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/212588.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E07" tvg-logo="http://xpaneltv.com:8080/images/16622c0d22c35308f1ddfccee0875c0a.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/212589.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E08" tvg-logo="http://xpaneltv.com:8080/images/9f1782b3fead5adfae6f6eca41b63c29.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/212590.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E09" tvg-logo="http://xpaneltv.com:8080/images/4787a483a79c751435ca3de54e597433.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/212591.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E10" tvg-logo="http://xpaneltv.com:8080/images/3e60105cfbd9681ad00ef07eff5ee5c2.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/212592.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E11" tvg-logo="http://xpaneltv.com:8080/images/94c18c7ceb29e3af80117fffba592672.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/212593.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E12" tvg-logo="http://xpaneltv.com:8080/images/b4b1a4bc3d55acd2de7d6260e01ea92c.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/212594.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E13" tvg-logo="http://xpaneltv.com:8080/images/fcf2a0be63889ba93e995973e963ad02.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/212595.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E14" tvg-logo="http://xpaneltv.com:8080/images/ef532a43d30c03df4fd60e617666065e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/212596.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E15" tvg-logo="http://xpaneltv.com:8080/images/75f9bf9cfd34b4efa8bbce8ca8e823d3.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/212597.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E16" tvg-logo="http://xpaneltv.com:8080/images/703b6977f2f18fd88665f31a9aa40d03.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/212598.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E17" tvg-logo="http://xpaneltv.com:8080/images/4e3dd6e7aec4aa172ca15f72d111d74a.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/212599.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E18" tvg-logo="http://xpaneltv.com:8080/images/fcb94cb6c832e76e4758fcd6674b918f.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/212600.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E19" tvg-logo="http://xpaneltv.com:8080/images/a2a05432b0e3b5e5ba591e6d50da4af6.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/212601.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E20" tvg-logo="http://xpaneltv.com:8080/images/bdf5600712cd20decf11978635c0acba.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/212602.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E21" tvg-logo="http://xpaneltv.com:8080/images/6c0eef9845f33da6708dbfefc3c135fb.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/212603.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E22" tvg-logo="http://xpaneltv.com:8080/images/c1bee53b5786c0c60a3040181c4cf79d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/212604.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E23" tvg-logo="http://xpaneltv.com:8080/images/ff12531929cc38a7c088cac0af354c96.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/212605.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S02 E24" tvg-logo="http://xpaneltv.com:8080/images/33f535ccf9e6ac5e6e35f69089502063.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S02 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/212606.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E01" tvg-logo="http://xpaneltv.com:8080/images/215401e09bdbe1e1bb7e3d0004707020.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/212607.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E02" tvg-logo="http://xpaneltv.com:8080/images/7e04c16b61609970b80d6633c6bf0b56.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/212608.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E03" tvg-logo="http://xpaneltv.com:8080/images/29d9e2b6c186931756ddfe5ab8a6d32d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/212609.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E04" tvg-logo="http://xpaneltv.com:8080/images/f7fd4f85ec0c4be6b3d934fed9df75a9.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/212610.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E05" tvg-logo="http://xpaneltv.com:8080/images/c7cbbebe6256590dec13a2739a75894a.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/212611.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E06" tvg-logo="http://xpaneltv.com:8080/images/04d8b52fb4db9b49a3302d3d2030d231.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/212612.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E07" tvg-logo="http://xpaneltv.com:8080/images/395cd5b77d26e8b6c4c8e212236b14af.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/212613.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E08" tvg-logo="http://xpaneltv.com:8080/images/4ac486e8ff5816ed18076ec072a13fa6.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/212614.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E09" tvg-logo="http://xpaneltv.com:8080/images/7aac7417d1de9569ecb9f883108c8683.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/212615.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E10" tvg-logo="http://xpaneltv.com:8080/images/34dca38fd7bb3dabed6deeac9f173807.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/212616.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E11" tvg-logo="http://xpaneltv.com:8080/images/6ee991bbf2eb6bca1f4c9294ad0a852d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/212617.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E12" tvg-logo="http://xpaneltv.com:8080/images/3d185a2c95ec324b3389f0bd606ad44c.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/212618.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E13" tvg-logo="http://xpaneltv.com:8080/images/0c86503ea35370ef88fb69d7162fcf42.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/212619.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E14" tvg-logo="http://xpaneltv.com:8080/images/f64832ffd307f4f190998331a0c50d6c.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/212620.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E15" tvg-logo="http://xpaneltv.com:8080/images/5c5f85d53b56e6a50aea3504553fe247.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/212621.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E16" tvg-logo="http://xpaneltv.com:8080/images/697b24457c28e819c0f80e2610f6cf9d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/212622.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E17" tvg-logo="http://xpaneltv.com:8080/images/e35c524462be63ddc7e4b17d8e8773e6.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/212623.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E18" tvg-logo="http://xpaneltv.com:8080/images/3e3693ad999f6210450709d0743241f9.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/212624.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E19" tvg-logo="http://xpaneltv.com:8080/images/c678cd7be1cef4d97f82afaf6325f94f.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/212625.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E20" tvg-logo="http://xpaneltv.com:8080/images/864362acd2c7395c022f81cb7aec7604.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/212626.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E21" tvg-logo="http://xpaneltv.com:8080/images/d3346404f3a596d1758f3382a63c2e3b.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/212627.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E22" tvg-logo="http://xpaneltv.com:8080/images/346bb00640a4866e72871db917c9d088.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/212628.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E23" tvg-logo="http://xpaneltv.com:8080/images/c26bcb6922169cc5735ef5bd4a2d4922.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/212629.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S03 E24" tvg-logo="http://xpaneltv.com:8080/images/e4bca0a8d5c0bc18a236fed2ebc7627e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S03 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/212630.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E01" tvg-logo="http://xpaneltv.com:8080/images/ee63c5cdef556d53bc2ebc0e991b86f9.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/212631.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E02" tvg-logo="http://xpaneltv.com:8080/images/9c0e9e2a2a48163235246fd21aaa8a05.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/212632.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E03" tvg-logo="http://xpaneltv.com:8080/images/7cee72363cd38f91ce8dd7ba47612dc0.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/212633.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E04" tvg-logo="http://xpaneltv.com:8080/images/18c8b14d457a6bf504a7dbb4d72dc9c3.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/212634.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E05" tvg-logo="http://xpaneltv.com:8080/images/7faf55933009d99715500d3119cf8c0d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/212635.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E06" tvg-logo="http://xpaneltv.com:8080/images/78fbed46568a929bec8eb7ea87fae9d4.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/212636.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E07" tvg-logo="http://xpaneltv.com:8080/images/991916ff138a804e78282670120144c3.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/212637.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E08" tvg-logo="http://xpaneltv.com:8080/images/bed951d8dae2e348243d8848b682df65.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/212638.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E09" tvg-logo="http://xpaneltv.com:8080/images/2d4f4f369485524d6538f9a82beffffd.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/212639.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E10" tvg-logo="http://xpaneltv.com:8080/images/0b63a6ee9384ad0c712fee96c742b999.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/212640.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E11" tvg-logo="http://xpaneltv.com:8080/images/6707e19f8565a88fbf8a1aa5a9996730.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/212641.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E12" tvg-logo="http://xpaneltv.com:8080/images/71c13dbd69dd5528225a46b29c69eb23.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/212642.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E13" tvg-logo="http://xpaneltv.com:8080/images/2c3d8ede0d3f4bb403ea72859c8d82d8.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/212643.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E14" tvg-logo="http://xpaneltv.com:8080/images/3ca83b861e45cc8a0b5b1e56eadfeb40.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/212644.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E15" tvg-logo="http://xpaneltv.com:8080/images/bb0f8f1701049532238d7a9bcdc57bdd.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/212645.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E16" tvg-logo="http://xpaneltv.com:8080/images/c66c51f4a33f01705078083dc52e0a3a.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/212646.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E17" tvg-logo="http://xpaneltv.com:8080/images/619ccbb91e5315f1f4b599bbcfb4924e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/212647.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E18" tvg-logo="http://xpaneltv.com:8080/images/aa6d10aea51f18ce26e3414cf62aa38d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/212648.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E19" tvg-logo="http://xpaneltv.com:8080/images/dadaf42f55e0611989aae56e946235da.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/212649.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E20" tvg-logo="http://xpaneltv.com:8080/images/8b4602481de53ac455e261a7faaaf996.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/212650.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E21" tvg-logo="http://xpaneltv.com:8080/images/e9a5006c5855b92437b09f6976d9a9a8.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/212651.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E22" tvg-logo="http://xpaneltv.com:8080/images/909e550fe0533843aa6e10c38f0d30cb.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/212652.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E23" tvg-logo="http://xpaneltv.com:8080/images/3244da426e54b8db9ed30a5091335ee5.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/212653.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E24" tvg-logo="http://xpaneltv.com:8080/images/c4bfc6499f873cbf897920221979def4.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/212654.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E25" tvg-logo="http://xpaneltv.com:8080/images/00341e21f2afdf50d35a11e8ac946023.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/212655.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S04 E26" tvg-logo="http://xpaneltv.com:8080/images/1c24659a35ea765bad54435e2520bcd4.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S04 E26
+http://xpaneltv.com:8080/series/Alirf/78587421/212656.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E01" tvg-logo="http://xpaneltv.com:8080/images/aee9c1c2a729390a3e886e23512be8a7.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/212657.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E02" tvg-logo="http://xpaneltv.com:8080/images/929f8857275920984bd591d34d218956.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/212658.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E03" tvg-logo="http://xpaneltv.com:8080/images/4c5d0b12e6f8adf9d6f49376b7f48ec6.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/212659.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E04" tvg-logo="http://xpaneltv.com:8080/images/1aff9c4959f435045c614b80c4433404.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/212660.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E05" tvg-logo="http://xpaneltv.com:8080/images/0f25efe7bdc424a1f3d93382020cec08.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/212661.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E06" tvg-logo="http://xpaneltv.com:8080/images/fc397e555a0d6c273c06c5508866e856.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/212662.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E07" tvg-logo="http://xpaneltv.com:8080/images/94c5e4f8cba1de9a4deb139f240e6139.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/212663.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E08" tvg-logo="http://xpaneltv.com:8080/images/f6aee0ce9e24667b505b3f2cb18a9425.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/212664.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E09" tvg-logo="http://xpaneltv.com:8080/images/14296f323cf7b69b4bbee7fc6b75712a.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/212665.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E10" tvg-logo="http://xpaneltv.com:8080/images/1961736f647eeefb8ce2e7210acf8bce.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/212666.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E11" tvg-logo="http://xpaneltv.com:8080/images/4c04b41b8e8d24e2afaf8dc2edd15aaa.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/212667.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E12" tvg-logo="http://xpaneltv.com:8080/images/0271e92de7a7d081aa40c4d94d351292.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/212668.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E13" tvg-logo="http://xpaneltv.com:8080/images/69d37372408230636dd80124e89e0e86.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/212669.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E14" tvg-logo="http://xpaneltv.com:8080/images/abcbbec48ae648c5e47ed80c40120f3d.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/212670.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E15" tvg-logo="http://xpaneltv.com:8080/images/3707c612c4e1f1713fe1a1d6e3398d3e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/212671.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E16" tvg-logo="http://xpaneltv.com:8080/images/c55a8f8500d4495dfb405e7e0d7e5313.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/212672.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E17" tvg-logo="http://xpaneltv.com:8080/images/50fb8863c03da0c2d6b2dce3ed42103a.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/212673.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E18" tvg-logo="http://xpaneltv.com:8080/images/24d4251305d025f167dcef4a7bc1f22e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/212674.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E19" tvg-logo="http://xpaneltv.com:8080/images/49a916a42aae81394299d442a4bb2349.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/212675.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E20" tvg-logo="http://xpaneltv.com:8080/images/7cb2fe77a12296078823056f5893e4b9.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/212676.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E21" tvg-logo="http://xpaneltv.com:8080/images/84fad4dc51b637f872971c64937cbc82.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/212677.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E22" tvg-logo="http://xpaneltv.com:8080/images/157a88738e2515360a7be61c76bab6aa.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/212678.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E23" tvg-logo="http://xpaneltv.com:8080/images/34bbe1dd4fda5c049fd4ca789e32c127.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/212679.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E24" tvg-logo="http://xpaneltv.com:8080/images/50147e8a84cc8d84f9a79b081fc857e6.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/212680.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S05 E25" tvg-logo="http://xpaneltv.com:8080/images/1f63daea8aa8739a2298dcdd7cc7d81e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S05 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/212681.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E01" tvg-logo="http://xpaneltv.com:8080/images/73380810a326ae5acfc49c44b58ec995.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/212682.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E02" tvg-logo="http://xpaneltv.com:8080/images/f501e70aa3f5a8210f953e788fe15be9.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/212683.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E03" tvg-logo="http://xpaneltv.com:8080/images/225cffeea200254f89f118920dfc4935.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/212684.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E04" tvg-logo="http://xpaneltv.com:8080/images/8f59568f04f772019010c40d786b9619.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/212685.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E05" tvg-logo="http://xpaneltv.com:8080/images/4f392084cd3dad863b3d52e551b61fe9.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/212686.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E06" tvg-logo="http://xpaneltv.com:8080/images/3b0955bdd6b873ab0a31ad2288842d4c.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/212687.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E07" tvg-logo="http://xpaneltv.com:8080/images/121fa4fa64cdd3924a5d6fed2a042689.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/212688.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E08" tvg-logo="http://xpaneltv.com:8080/images/6e53bac54706fbe3f5222a14fd4b8a96.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/212689.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E09" tvg-logo="http://xpaneltv.com:8080/images/f2008b27cafa2c44aee8819274decd4f.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/212690.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E10" tvg-logo="http://xpaneltv.com:8080/images/cc075f4a4fde2d25775d0c4d7a1e89e5.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/212691.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E11" tvg-logo="http://xpaneltv.com:8080/images/8aab43c696445134bf43bc52afa2e012.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/212692.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E12" tvg-logo="http://xpaneltv.com:8080/images/5ac5e07ffb1e68c00fddef44a6f4e74f.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/212693.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E13" tvg-logo="http://xpaneltv.com:8080/images/30fa6b3d2840e1017da0868c7a17b924.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/212694.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E14" tvg-logo="http://xpaneltv.com:8080/images/2db157341af0bcd659bcdf4e1c52f9b6.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/212695.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E15" tvg-logo="http://xpaneltv.com:8080/images/2afe4980b5e960f88bbe2b3633cb770e.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/212696.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E16" tvg-logo="http://xpaneltv.com:8080/images/3911f82948b2d02b2e1f4006ca39eaa5.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/212697.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E17" tvg-logo="http://xpaneltv.com:8080/images/544625d514430849039a8e4936ad2c97.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/212698.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E18" tvg-logo="http://xpaneltv.com:8080/images/a5f43336636f652d9a9f239221077f7f.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/212699.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E19" tvg-logo="http://xpaneltv.com:8080/images/95a01b2578c594de5d43a651859e1061.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/212700.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E20" tvg-logo="http://xpaneltv.com:8080/images/6129e9a4a5f3167f40bd0991dd4bd0d9.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/212701.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E21" tvg-logo="http://xpaneltv.com:8080/images/d2cd05c8d01438e442416df2fc7afa35.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/212702.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E22" tvg-logo="http://xpaneltv.com:8080/images/00ded3d7a8c1081b3e973bbe54fc4239.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/212703.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E23" tvg-logo="http://xpaneltv.com:8080/images/9678c779f9d727a061d5c04aef57ec60.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/212704.mkv
+#EXTINF: -1 tvg-name="El príncipe de Bel-Air S06 E24" tvg-logo="http://xpaneltv.com:8080/images/13053822e76b7256560099fbbe350482.jpg" group-title="CLÁSICAS & RETRO", El príncipe de Bel-Air S06 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/212705.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E01" tvg-logo="http://xpaneltv.com:8080/images/3c9b18183240d8f4aae44af88bcac3f4.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/222315.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E02" tvg-logo="http://xpaneltv.com:8080/images/01e573c7fc105dde542fd00699f648e8.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/222316.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E03" tvg-logo="http://xpaneltv.com:8080/images/952ba46deac1be218f786957140dc2db.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/222317.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E04" tvg-logo="http://xpaneltv.com:8080/images/5f57dae4a8de7ee5d0aa430d3bc01113.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/222318.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E05" tvg-logo="http://xpaneltv.com:8080/images/fa8691c68765b8bb6193868e9eca06b3.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/222319.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E06" tvg-logo="http://xpaneltv.com:8080/images/39579f9ceec978e60a52ff2135657a26.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/222320.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E07" tvg-logo="http://xpaneltv.com:8080/images/aa96b4803ec440328682919fb593f561.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/222321.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E08" tvg-logo="http://xpaneltv.com:8080/images/fb4966fe71b7b54a0423a9366100e8ac.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/222322.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E09" tvg-logo="http://xpaneltv.com:8080/images/69f5a157f9f4e8fe2d581dbb998831d6.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/222323.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E10" tvg-logo="http://xpaneltv.com:8080/images/62315e28601c1df78edba4dec720bbf2.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/222324.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E11" tvg-logo="http://xpaneltv.com:8080/images/b26b284c26b89b7405684ca4b2d09546.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/222325.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E12" tvg-logo="http://xpaneltv.com:8080/images/3909be733b5b83e52e8e89a8cbf69bf4.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/222326.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E13" tvg-logo="http://xpaneltv.com:8080/images/595223d22fb25313170b5f3505988a72.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/222327.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E14" tvg-logo="http://xpaneltv.com:8080/images/5a9587c3856cf4dfd6d4e92d7fd0baf9.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/222328.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E15" tvg-logo="http://xpaneltv.com:8080/images/46746b21d8d8ee8b837e6f477cab4baf.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/222329.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E16" tvg-logo="http://xpaneltv.com:8080/images/509cbff148a440d5cc792057312f2702.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/222330.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E17" tvg-logo="http://xpaneltv.com:8080/images/88c34b8cb581321edd2f6e1bd2737901.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/222331.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E18" tvg-logo="http://xpaneltv.com:8080/images/89a5c22ca114108eb3b191c92f1752ba.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/222332.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E19" tvg-logo="http://xpaneltv.com:8080/images/042ffbdba1652da0e46dad3c84da677f.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/222333.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E20" tvg-logo="http://xpaneltv.com:8080/images/9351d8a98d3c493ec1af626df5324c42.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/222334.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E21" tvg-logo="http://xpaneltv.com:8080/images/af5770e5598d7f73586ac99e76927178.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/222335.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E22" tvg-logo="http://xpaneltv.com:8080/images/1f2be8a0461587e9c2b4ec77dc27f541.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/222336.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E23" tvg-logo="http://xpaneltv.com:8080/images/e4a9d2c4b884e5c819d6e647ede6c904.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/222337.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E24" tvg-logo="http://xpaneltv.com:8080/images/279a4cb1f22eb8c98e47f047182eabbf.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/222338.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E25" tvg-logo="http://xpaneltv.com:8080/images/5d944ab6110735a317a7e7abccce0973.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/222339.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E26" tvg-logo="http://xpaneltv.com:8080/images/5e1a444090442af85a1556a0e1a1a665.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E26
+http://xpaneltv.com:8080/series/Alirf/78587421/222340.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E27" tvg-logo="http://xpaneltv.com:8080/images/7f49d7f6c5e5b873765afbfd885df368.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E27
+http://xpaneltv.com:8080/series/Alirf/78587421/222341.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E28" tvg-logo="http://xpaneltv.com:8080/images/3a6b13fb33ad5d2f90ec5dd90efd9d41.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E28
+http://xpaneltv.com:8080/series/Alirf/78587421/222342.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E29" tvg-logo="http://xpaneltv.com:8080/images/e5bb4e957ae2523a7b42e18ff1bb4d64.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E29
+http://xpaneltv.com:8080/series/Alirf/78587421/222343.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E30" tvg-logo="http://xpaneltv.com:8080/images/4e9f42faf8e30b92087aaa86d6b09d2e.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E30
+http://xpaneltv.com:8080/series/Alirf/78587421/222344.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E31" tvg-logo="http://xpaneltv.com:8080/images/c47db664d2cf5b2524b9fd4ab612868c.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E31
+http://xpaneltv.com:8080/series/Alirf/78587421/222345.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E32" tvg-logo="http://xpaneltv.com:8080/images/1f7679eb9eec599dfbe76d88b869a8b6.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E32
+http://xpaneltv.com:8080/series/Alirf/78587421/222346.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E33" tvg-logo="http://xpaneltv.com:8080/images/db8a7fd7854f441d086e42516cab4252.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E33
+http://xpaneltv.com:8080/series/Alirf/78587421/222347.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E34" tvg-logo="http://xpaneltv.com:8080/images/0b0036bf538f881727d1f917c373afa7.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E34
+http://xpaneltv.com:8080/series/Alirf/78587421/222348.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E35" tvg-logo="http://xpaneltv.com:8080/images/550c6e003e39aa774eaf363898b5f987.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E35
+http://xpaneltv.com:8080/series/Alirf/78587421/222349.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E36" tvg-logo="http://xpaneltv.com:8080/images/4d7cda1373e72da7f8decfad8b8b1f81.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E36
+http://xpaneltv.com:8080/series/Alirf/78587421/222350.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E37" tvg-logo="http://xpaneltv.com:8080/images/70a8fcf917f9dead205cbf747bfaf954.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E37
+http://xpaneltv.com:8080/series/Alirf/78587421/222351.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E38" tvg-logo="http://xpaneltv.com:8080/images/a26aacfcad7a90222026168a419321e6.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E38
+http://xpaneltv.com:8080/series/Alirf/78587421/222352.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S01 E39" tvg-logo="http://xpaneltv.com:8080/images/ebc4008f07214b94b46c766eb24dcd4b.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S01 E39
+http://xpaneltv.com:8080/series/Alirf/78587421/222353.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E01" tvg-logo="http://xpaneltv.com:8080/images/8eb588c3d00bf8762539b9cb5a41bac8.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E01
+http://xpaneltv.com:8080/series/Alirf/78587421/222354.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E02" tvg-logo="http://xpaneltv.com:8080/images/05eef6d6bbd77438e04977dd0fee990a.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E02
+http://xpaneltv.com:8080/series/Alirf/78587421/222355.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E03" tvg-logo="http://xpaneltv.com:8080/images/098543ade59f0c7f5fc50d04eda9c260.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E03
+http://xpaneltv.com:8080/series/Alirf/78587421/222356.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E04" tvg-logo="http://xpaneltv.com:8080/images/e174916eb3bf2fe6e24bc1acfe07d27c.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E04
+http://xpaneltv.com:8080/series/Alirf/78587421/222357.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E05" tvg-logo="http://xpaneltv.com:8080/images/d2ad40e2d19a56f25d451a238db9f444.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E05
+http://xpaneltv.com:8080/series/Alirf/78587421/222358.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E06" tvg-logo="http://xpaneltv.com:8080/images/75b84fd1a89a4cc670522e590a08b4d9.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E06
+http://xpaneltv.com:8080/series/Alirf/78587421/222359.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E07" tvg-logo="http://xpaneltv.com:8080/images/4f2ec5c7b3363e7d49d301301affdc4f.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E07
+http://xpaneltv.com:8080/series/Alirf/78587421/222360.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E08" tvg-logo="http://xpaneltv.com:8080/images/454600a50a4622539c9f5a253357101b.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E08
+http://xpaneltv.com:8080/series/Alirf/78587421/222361.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E09" tvg-logo="http://xpaneltv.com:8080/images/6fd62c69d5d382d736ff38a2b3b19974.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E09
+http://xpaneltv.com:8080/series/Alirf/78587421/222362.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E10" tvg-logo="http://xpaneltv.com:8080/images/e9b6fc86e6a3e7c25e93bc7705fba90c.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E10
+http://xpaneltv.com:8080/series/Alirf/78587421/222363.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E11" tvg-logo="http://xpaneltv.com:8080/images/fa3a406d5e040a9a29c86a90d0094fc8.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E11
+http://xpaneltv.com:8080/series/Alirf/78587421/222364.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E12" tvg-logo="http://xpaneltv.com:8080/images/2e3da42cf59816e895a7c6b7983cbb45.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E12
+http://xpaneltv.com:8080/series/Alirf/78587421/222365.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E13" tvg-logo="http://xpaneltv.com:8080/images/e658bf2b0350e0617059face00de4bbf.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E13
+http://xpaneltv.com:8080/series/Alirf/78587421/222366.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E14" tvg-logo="http://xpaneltv.com:8080/images/6b28aeeb8d1271e173105ffd38a127d0.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E14
+http://xpaneltv.com:8080/series/Alirf/78587421/222367.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E15" tvg-logo="http://xpaneltv.com:8080/images/40fe60f3c93aa614c0e04a9c60e3709a.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E15
+http://xpaneltv.com:8080/series/Alirf/78587421/222368.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E16" tvg-logo="http://xpaneltv.com:8080/images/ea49c9065b81b8df60a6881ae4234bab.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E16
+http://xpaneltv.com:8080/series/Alirf/78587421/222369.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E17" tvg-logo="http://xpaneltv.com:8080/images/165e9dce700102cf850b41c2070d5fe4.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E17
+http://xpaneltv.com:8080/series/Alirf/78587421/222370.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E18" tvg-logo="http://xpaneltv.com:8080/images/8171d46e031f85f2d3150ebb4df0a760.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E18
+http://xpaneltv.com:8080/series/Alirf/78587421/222371.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E19" tvg-logo="http://xpaneltv.com:8080/images/1166e6d08b3c1cb78f8124df5dcf7aab.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E19
+http://xpaneltv.com:8080/series/Alirf/78587421/222372.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E20" tvg-logo="http://xpaneltv.com:8080/images/df7d41b6f7dc6f2ee867b443cf998b5f.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E20
+http://xpaneltv.com:8080/series/Alirf/78587421/222373.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E21" tvg-logo="http://xpaneltv.com:8080/images/dbcc8a9e8d7bca009a2b62e57a3218ac.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E21
+http://xpaneltv.com:8080/series/Alirf/78587421/222374.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E22" tvg-logo="http://xpaneltv.com:8080/images/1eb83094039f452a063275cb4cc4a10d.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E22
+http://xpaneltv.com:8080/series/Alirf/78587421/222375.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E23" tvg-logo="http://xpaneltv.com:8080/images/8f619d2a3f8ee1163965c5f0eac13abc.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E23
+http://xpaneltv.com:8080/series/Alirf/78587421/222376.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E24" tvg-logo="http://xpaneltv.com:8080/images/9d877606560b238397543617a834d464.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E24
+http://xpaneltv.com:8080/series/Alirf/78587421/222377.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E25" tvg-logo="http://xpaneltv.com:8080/images/30d2e5eac891d7ee22bc3c2176d83803.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E25
+http://xpaneltv.com:8080/series/Alirf/78587421/222378.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E26" tvg-logo="http://xpaneltv.com:8080/images/0db00df6697f76ed52dae38576079567.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E26
+http://xpaneltv.com:8080/series/Alirf/78587421/222379.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E27" tvg-logo="http://xpaneltv.com:8080/images/ca857c03e67e036074cea83aefbb4a4c.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E27
+http://xpaneltv.com:8080/series/Alirf/78587421/222380.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E28" tvg-logo="http://xpaneltv.com:8080/images/68d624257e82fcc1acd8803d7c0f939a.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E28
+http://xpaneltv.com:8080/series/Alirf/78587421/222381.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E29" tvg-logo="http://xpaneltv.com:8080/images/766902c8f0dfbf4356935eaac2bae8d1.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E29
+http://xpaneltv.com:8080/series/Alirf/78587421/222382.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E30" tvg-logo="http://xpaneltv.com:8080/images/0bcf35f22873611418a5be035a6bab57.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E30
+http://xpaneltv.com:8080/series/Alirf/78587421/222383.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E31" tvg-logo="http://xpaneltv.com:8080/images/176e93e6ed85dba58103aae715feeae0.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E31
+http://xpaneltv.com:8080/series/Alirf/78587421/222384.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E32" tvg-logo="http://xpaneltv.com:8080/images/0f17f0d71c8b19e1ad3565d178d1d8e4.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E32
+http://xpaneltv.com:8080/series/Alirf/78587421/222385.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E33" tvg-logo="http://xpaneltv.com:8080/images/0c07504ff26b187ccd5ed394c3c3d6ce.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E33
+http://xpaneltv.com:8080/series/Alirf/78587421/222386.mkv
+#EXTINF: -1 tvg-name="El Zorro (1957) S02 E34" tvg-logo="http://xpaneltv.com:8080/images/700fd8ec6b12ff55c84f3744d67d1e39.jpg" group-title="CLÁSICAS & RETRO", El Zorro (1957) S02 E34
+http://xpaneltv.com:8080/series/Alirf/78587421/222387.mkv
