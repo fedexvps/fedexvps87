@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="Los Tres Mosqueteros: Milady" tvg-logo="https://image.tmdb.org/t/p/original/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg" group-title="PELICULAS 2023"  ,Los Tres Mosqueteros: Milady
+#EXTINF:-1 group-title="PELICULAS 2023" tvg-name="Los Tres Mosqueteros: Milady" tvg-logo="https://image.tmdb.org/t/p/original/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg" ,Los Tres Mosqueteros: Milady
 https://fs4.1cloudfile.com/token/download/dc/gc2e/Los_tres_mosqueteros_Milady_(2023)_1080p_WEB-DL_Latino_LIGERO.mkv?download_token=dfbc63ec341bde86f2ed8f073bb90248b17eac2b14a46f9acc8131bcbf0a4296
-#EXTINF:-1 tvg-id="" tvg-name=="Dune: Parte dos" tvg-logo="https://image.tmdb.org/t/p/original/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg" group-title="PELICULAS 2024" ,Dune: Parte dos
+#EXTINF:-1 group-title="PELICULAS 2024" tvg-name="Dune: Parte dos" tvg-logo="https://image.tmdb.org/t/p/original/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg" ,Dune: Parte dos
 https://fs1.1cloudfile.com/token/download/dc/gc2t/Duna_Parte_2_(2024)_1080p_WEB-DL_Latino_LIGERO.mkv?download_token=7a79948bd3a59b3eb0bf13c8cfa2de2d09e0501b5a34d188971d1234de56c861
