@@ -1,5 +1,18 @@
-#EXTM3U
-#EXTINF: ,
-corrupt/empty
-#EXTINF:-1 tvg-name="En tierra de santos y pecadores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN8JJaVpADPEU6SZX8QBCZHAFrU.jpg" group-title=,"▶️  ESTRENOS HDCAM (BAJA CALIDAD) ▶️",En tierra de santos y pecadores (2023)
-https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYBGFFJiy3XAxouFiVYTkJSyToBY1MsODq8_t3IcCLqSJ
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="10 días de un buen hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZjmSFRf6u1hYvLGxCAu13dpGQA.jpg" ,10 días de un buen hombre (2023)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYJ5S4VlQW_xpw4CJUFnWzu3YCjOlnhwd9dlzidi33tJU
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="Dieciocho otra vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1TQbQMGyPQxTwZ8HqqNTdtcjOe.jpg" ,Dieciocho otra vez (2023)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYA7DP9KyTzoFGCC-j88bbrO9hq50UZTB6okRvx_4tOlZ
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="65 (2023) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" ,65 (2023) HD
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYHgL6zmMGc0s2nPxyADvVfhtky1ECMrC9RGrWeYCgmEs
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" ,65 (2023)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYGE7SjgE_Vkq7SEVpdWeu3osAy1PVpZZJ7Tw6eoDbz3G
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" ,65 (2023)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYPtuMwStpsbVunpsbACJw5BPwl12_peJ4dOvTCLKfdUT
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="Locas por Brady (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E10HQ6Od3fO8yRiWZPjgwYs9k5.jpg" ,Locas por Brady (2023)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYALzNquw3aAnskoYP7W8JFEg_H1Z-HCsE84iRNGAaWg2
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="Locas por Brady (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E10HQ6Od3fO8yRiWZPjgwYs9k5.jpg" ,Locas por Brady (2023)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYIfdeurq7JX8lhJPOoKaUuJd8j2iVT19czbLCwwqXXjt
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="Adicción perfecta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMeLHrTs0fkPAcezPj6xiiKdRay.jpg" ,Adicción perfecta (2023)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYGcjSDwEqJ0OfA4Si_dLMz6b5Vc2W-dphxV4JOy4S20m
+#EXTINF:-1 group-title="▶️ VOD/2023" tvg-name="Adiós, señor Haffmann (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lxsln5naXidztPQQJbAcqA76dz.jpg" ,Adiós, señor Haffmann (2022)
+https://zonamovie.live:443/play/zlFhUvmA5_FYBHjOFgRpYCWs0l1yCfZcUk7DbPdnvyjFjPk45OimE5l4A82A71KH
