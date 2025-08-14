@@ -1,36 +1,96 @@
 {
-        "name": "Mononoke II: Las cenizas de la ira (2025)",
-        "ico": "https://image.tmdb.org/t/p/original/bT2qcTXVNUbeIMjbggB14Wyymgi.jpg",
-        "uri": "https://filemoon.to/e/e7qi1u5kgq7j/",
-        "web": "web",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-        "referer": "https://filemoon.to/",
-        "origin": "https://filemoon.to"
-      },
-{
-        "name": "Juego de brujas (2024)",
-        "ico": "https://image.tmdb.org/t/p/original/h9eOalWeLTQFY52olih7WENULYG.jpg",
-        "uri": "https://filemoon.to/e/yua71z4qsst9/",
-        "web": "web",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-        "referer": "https://filemoon.to/",
-        "origin": "https://filemoon.to"
-      },
-{
-        "name": "Infiltrado (2023)",
-        "ico": "https://image.tmdb.org/t/p/original/1ihXzqt84MH1d3lp1iIkp37je0b.jpg",
-        "uri": "https://filemoon.to/e/oxk7xit3u7dt/",
-        "web": "web",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-        "referer": "https://filemoon.to/",
-        "origin": "https://filemoon.to"
-      },
-{
-        "name": "Terror en El Óceano (2022)",
-        "ico": "https://image.tmdb.org/t/p/original/1jsPhQTCcaamkuTbFjwd7QOlK6h.jpg",
-        "uri": "https://filemoon.to/e/6w4big63eval/",
-        "web": "web",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-        "referer": "https://filemoon.to/",
-        "origin": "https://filemoon.to"
-      },
+    "tipo": "serie",
+    "name": "La fiesta de las salchichas: Comidatopía (2024) Temporada 2",
+    "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+    "temporada": [
+        {
+            "name": "Capitulo 1",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/928tv4z5czvn",
+            "drm_scheme": "",
+            "drm_license_url": "",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        },
+         {
+            "name": "Capitulo 2",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/8cyir8a5c4yh",
+            "drm_scheme": "",
+            "drm_license_url": "",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        },
+         {
+            "name": "Capitulo 3",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/7j0bzmsd4gjs",
+            "drm_scheme": "",
+            "drm_license_url": "",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        },
+         {
+            "name": "Capitulo 4",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/bkt4r7omcd84",
+            "drm_scheme": "",
+            "drm_license_url": "",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        },
+         {
+            "name": "Capitulo 5",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/0prrkkavsbh8",
+            "drm_scheme": "",
+            "drm_license_url": "",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        },
+         {
+            "name": "Capitulo 6",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/eo41vygwmxpw/",
+            "drm_scheme": "",
+            "drm_license_url": "",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        }
+         {
+            "name": "Capitulo 7",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/juwwy0pe7fdf",
+            "drm_scheme": "",
+            "drm_license_url": "",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        }
+         {
+            "name": "Capitulo 8",
+            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
+            "uri": "https://filemoon.to/e/llb8oakidbl2",
+            "drm_scheme": "",
+            "drm_license_url": "https://filemoon.to/",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+            "web": "web",
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
+        }
+        
+    ]
+},
