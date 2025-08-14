@@ -1,6 +1,6 @@
 {
     "tipo": "serie",
-    "name": "En el barro (2025) Temporada 1",
+    "name": "En el barro (2025)",
     "ico": "https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",
     "temporada": [
         {
@@ -78,7 +78,7 @@
             "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
             "web": "web",
             "referer": "https://filemoon.to/",
-            "origin": ""
+            "origin": "https://filemoon.to/"
         }
          {
             "name": "Capitulo 8",
@@ -88,8 +88,8 @@
             "drm_license_url": "https://filemoon.to/",
             "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
             "web": "web",
-            "referer": "",
-            "origin": ""
+            "referer": "https://filemoon.to/",
+            "origin": "https://filemoon.to/"
         }
         
     ]
