@@ -1,74 +1,10 @@
 {
-    "tipo": "serie",
-    "name": "TITULO DE LA SERIE",
-    "ico": "URL DEL POSTER DE LA SERIE",
-    "temporada": [
-        {
-            "name": "Capitulo 1",
-            "ico": "https://image.tmdb.org/t/p/w500/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
-            "uri": "URL DEL VIDEO EMBED",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "",
-            "origin": ""
-        },
-         {
-            "name": "Capitulo 2",
-            "ico": "https://image.tmdb.org/t/p/w500/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
-            "uri": "",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "",
-            "origin": ""
-        },
-         {
-            "name": "Capitulo 3",
-            "ico": "https://image.tmdb.org/t/p/w500/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
-            "uri": "",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "",
-            "origin": ""
-        },
-         {
-            "name": "Capitulo 4",
-            "ico": "https://image.tmdb.org/t/p/w500/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
-            "uri": "",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "",
-            "origin": ""
-        },
-         {
-            "name": "Capitulo 5",
-            "ico": "https://image.tmdb.org/t/p/w500/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
-            "uri": "",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "",
-            "origin": ""
-        },
-         {
-            "name": "Capitulo 6",
-            "ico": "https://image.tmdb.org/t/p/w500/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
-            "uri": "",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "",
-            "origin": ""
-        }
-        
-    ]
+        "name": "The Group (2022)",
+        "ico": "https://image.tmdb.org/t/p/original/ql6OG1nzTGvnf0SfmTgSnD1OZCE.jpg",
+        "uri": "https://filemoon.to/e/8b1c3jsfq58s",
+        "web": "web",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
+        "referer": "https://filemoon.to/",
+        "origin": "https://filemoon.to"
+      },
 },
