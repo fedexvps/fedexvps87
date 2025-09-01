@@ -1,96 +1,171 @@
-{
-    "tipo": "serie",
-    "name": "La fiesta de las salchichas: Comidatopía (2024) Temporada 2",
-    "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-    "temporada": [
-        {
-            "name": "Capitulo 1",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/928tv4z5czvn",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        },
-         {
-            "name": "Capitulo 2",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/8cyir8a5c4yh",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        },
-         {
-            "name": "Capitulo 3",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/7j0bzmsd4gjs",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        },
-         {
-            "name": "Capitulo 4",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/bkt4r7omcd84",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        },
-         {
-            "name": "Capitulo 5",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/0prrkkavsbh8",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        },
-         {
-            "name": "Capitulo 6",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/eo41vygwmxpw/",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        }
-         {
-            "name": "Capitulo 7",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/juwwy0pe7fdf",
-            "drm_scheme": "",
-            "drm_license_url": "",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        }
-         {
-            "name": "Capitulo 8",
-            "ico": "https://image.tmdb.org/t/p/original/vauSduQlUarPFPPq5MIhSvmdSw7.jpg",
-            "uri": "https://filemoon.to/e/llb8oakidbl2",
-            "drm_scheme": "",
-            "drm_license_url": "https://filemoon.to/",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.0.0 Mobile Safari/537.36",
-            "web": "web",
-            "referer": "https://filemoon.to/",
-            "origin": "https://filemoon.to/"
-        }
-        
-    ]
-},
+https://1fichier.com/?hbxp7txb1c343hkael9k
+
+https://1fichier.com/?7931725gb47zlq56uwyf
+
+https://1fichier.com/?mcyw2ucnsasz5aghhzgc
+
+https://1fichier.com/?4x3vnhugn61kwrsskgvf
+
+https://1fichier.com/?g8yy7f6l3o7lrn35ymz4
+
+https://1fichier.com/?q872tg1y7lm3bpqiuli3
+
+https://1fichier.com/?7aw926netosygwwm26kh
+
+https://1fichier.com/?n96xvb8d99o6aa3b7ike
+
+https://1fichier.com/?p4dzgxjk643yxr7ig9rq
+
+https://1fichier.com/?u0b1gbasn4jjxlwkftro
+
+https://1fichier.com/?2raurnvzhp5vqqesoiaf
+
+https://1fichier.com/?vofrvg4lnbp7irthuksd
+
+https://1fichier.com/?1d8q396x1hxjxmquife0
+
+https://1fichier.com/?1qi8zikgb22v8899mgw0
+
+https://1fichier.com/?gs195d0nnc1ghbbzv66e
+
+https://1fichier.com/?t5qs5rkf2kghbsdlnl1w
+
+https://1fichier.com/?a6w0k0gonm02yw5xviwo
+
+https://1fichier.com/?24bw20rysfbh57hw062h
+
+https://1fichier.com/?76dasfem8hox31s3mg84
+
+https://1fichier.com/?9dgnqx5cspg6h0zob3eq
+
+https://1fichier.com/?pz4m281r3ot6nkyxtz80
+
+https://1fichier.com/?m9343rcj8tgavltwj882
+
+https://1fichier.com/?oqxhn1lma8tfd0tganrl
+
+https://1fichier.com/?yytla9n2kodxy395czs7
+
+https://1fichier.com/?71kfofgb37o7iwb7zdww
+
+https://1fichier.com/?x1onucvj5h3vbdc4yl5l
+
+https://1fichier.com/?639kiuz2xuwls055sgev
+
+https://1fichier.com/?qch181p7cp4ncavarke3
+
+https://1fichier.com/?zhig6plzybotnlosj4lk
+
+https://1fichier.com/?384n5ddsv9yqyax08lks
+
+https://1fichier.com/?iyu5skpbgd4dlcmhrhep
+
+https://1fichier.com/?45wm50citrppc3jhpfgx
+
+https://1fichier.com/?7iaoxilhu7u9sk7skq8q
+
+https://1fichier.com/?5izmaocnsp0fo9w6djyu
+
+https://1fichier.com/?tkraecvep6xn5y9tmi9h
+
+https://1fichier.com/?wczfnihg0j64zeeh1qww
+
+https://1fichier.com/?vv9kt1nva2nrpb92qe14
+
+VA PRIMERO
+
+https://1fichier.com/?v8z34ptaecuq4eu2yw85
+
+https://1fichier.com/?esrvolrawwfpd716o5jx
+
+VA SEGUNDO
+
+https://1fichier.com/?hdjq94rafcfyu05e4pyb
+
+https://1fichier.com/?sz26id1uru4wqnk3fx5n
+
+https://1fichier.com/?8akma4dn9k239hcpqxne
+
+https://1fichier.com/?253clhqdfsma5iqzzxrp
+
+https://1fichier.com/?kugepacral6cv7351qus
+
+https://1fichier.com/?7umhylb3eli3lxjlegs4
+
+https://1fichier.com/?1sa00rnhz6piaoc4wryi
+
+https://1fichier.com/?yh008x23uaewh439nq35
+
+https://1fichier.com/?skk9rk50rsfw4fo0he67
+
+https://1fichier.com/?6j567bx8ukxvvvg6yh8n
+
+https://1fichier.com/?firm75s8j77utg7m7z7i
+
+https://1fichier.com/?mq7c9kg056m0fy0lnr5r
+
+https://1fichier.com/?s7ydby0rcyjln8rcjjf4
+
+https://1fichier.com/?1dv53ect6s3u2y4a0oz6
+
+https://1fichier.com/?aqwqahzkrntbis0xqpop
+
+https://1fichier.com/?0k941zm41b4b1k6v3ycm
+
+https://1fichier.com/?50tjg4x6cinn0vm11k3a
+
+https://1fichier.com/?1epm4hy6bf0bqm1f53uu
+
+https://1fichier.com/?y329doaa9vucni6c59y1
+
+https://1fichier.com/?nmoszr4kt71htkhwk67y
+
+https://1fichier.com/?46z8a99wam445z7nutyy
+
+https://1fichier.com/?a054rnd538op2k8y512k
+
+https://1fichier.com/?qa45y5atpkpzz8dzy3cz
+
+https://1fichier.com/?hzw1qphn6tv2l58r2u3y
+
+https://1fichier.com/?bpjx3di8znhgz3sljnn6
+
+https://1fichier.com/?jp10taahdvv71uwxd4k6
+
+https://1fichier.com/?i20lxg05ssbo2pm22e51
+
+https://1fichier.com/?lfj7dbnb4eb3bgv0jrjr
+
+https://1fichier.com/?s91cmdj3kux6l2sl7oi7
+
+https://1fichier.com/?8h4esdxa1oy7r5i8ijbq
+
+https://1fichier.com/?5xk3v95qfamvrgnksvls
+
+https://1fichier.com/?r2a6haw29um5aja6b7xm
+
+https://1fichier.com/?rdlqjb8mkwxb70dqgt23
+
+https://1fichier.com/?qulddci6e331pwwxrawk
+
+https://1fichier.com/?tjispnwio1tkwpa6l6v1
+
+https://1fichier.com/?gan94qzkeigh8vrwde25
+
+https://1fichier.com/?8x5rr84f32at1z3wue70
+
+https://1fichier.com/?8jvncbb9p6n8momvgti4
+
+https://www.mediafire.com/file/fjfkhb0rwqqket8/LQFE25WLM.rar/file
+
+https://1fichier.com/?krd6bdg2vcrdc9ga43hh
+
+https://www.mediafire.com/file/b3rfggxp868oqih/VFDCM25WLLIM.rar/file
+
+https://1fichier.com/?6bd11jgie3woil6twvqq
+
+https://1fichier.com/?lqv57ahqk5zuwq8llt8g
+
+https://1fichier.com/?49c75wx00p10q31egfit
+
+https://1fichier.com/?zdgzvqjmsq9jwxzhfkv9
